@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/mohammadsaud-0110/Fashionista_Server/issues"
   },
-  "homepage": "https://github.com/mohammadsaud-0110/Fashionista_Server#readme"
+  "homepage": "https://github.com/mohammadsaud-0110/Fashionista_Server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1"
+  }
 }
