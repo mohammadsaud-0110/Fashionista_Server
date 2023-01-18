@@ -1,6 +1,5 @@
 {
-    
-"shoe" : [
+    "shoe": [
         {
             "id": 203695672,
             "name": "ASOS DESIGN chunky chelsea boots in black faux leather",
@@ -1835,8 +1834,7 @@
             "facetGroupings": []
         }
     ],
-
-"jeans" : [
+    "jeans": [
         {
             "id": 203914921,
             "name": "Bershka 90s wide jeans in mid blue",
@@ -3620,5 +3618,4 @@
             "facetGroupings": []
         }
     ]
-
 }
