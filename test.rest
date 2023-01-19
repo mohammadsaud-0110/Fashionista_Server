@@ -1,0 +1,1 @@
+GET https://fashionista-server.onrender.com/shoe

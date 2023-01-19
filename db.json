@@ -1,4 +1,13 @@
 {
+    "Registered_Users": [
+        {
+            "firstname": "Tushar",
+            "lastname": "Bhavsar",
+            "email": "tushar@gamil.com",
+            "password": "Tushar123",
+            "dateofbirth": "26/01/1999"
+        }
+    ],
     "shoe": [
         {
             "id": 203695672,
